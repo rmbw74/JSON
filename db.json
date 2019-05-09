@@ -354,44 +354,6 @@
       },
       "source_table": "sc_req_item"
     },
-    {
-      "u_previously_approved": "false",
-      "sysapproval": {
-        "link": "https://asurion.service-now.com/api/now/table/task/bb646ebfdb40ab4413c15888dc96198e",
-        "value": "bb646ebfdb40ab4413c15888dc96198e"
-      },
-      "approval_journal_column": "approval_history",
-      "sys_updated_on": "2018-08-30 20:13:45",
-      "document_id": {
-        "link": "https://asurion.service-now.com/api/now/table/u_client_services_reporting/bb646ebfdb40ab4413c15888dc96198e",
-        "value": "bb646ebfdb40ab4413c15888dc96198e"
-      },
-      "process_step": "",
-      "sys_id": "00362534db982384b58b5c55dc9619a8",
-      "sys_updated_by": "279953",
-      "sys_created_on": "2018-08-30 20:13:45",
-      "iteration": "1",
-      "state": "requested",
-      "approval_source": "",
-      "sys_created_by": "279953",
-      "group": "",
-      "order": "",
-      "approver": {
-        "link": "https://asurion.service-now.com/api/now/table/sys_user/a72a79060f2279405f33af58b1050ea2",
-        "value": "a72a79060f2279405f33af58b1050ea2"
-      },
-      "comments": "",
-      "due_date": "2018-08-30 20:13:45",
-      "sys_mod_count": "0",
-      "approval_column": "approval",
-      "sys_tags": "",
-      "expected_start": "2018-08-30 20:13:45",
-      "state_binding": "",
-      "wf_activity": {
-        "link": "https://asurion.service-now.com/api/now/table/wf_activity/e61469d90f3f0e007889af58b1050e73",
-        "value": "e61469d90f3f0e007889af58b1050e73"
-      },
-      "source_table": "u_client_services_reporting"
-    }
+
   ]
 }
