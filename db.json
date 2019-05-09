@@ -77,47 +77,7 @@
         "value": "cb4b625f1b983b48acfdfcccdd4bcb2d"
       },
       "source_table": "sc_req_item"
-    },
-    {
-      "u_previously_approved": "false",
-      "sysapproval": {
-        "link": "https://asurion.service-now.com/api/now/table/task/e7f196d21b283b4c90e10e1dcd4bcb46",
-        "value": "e7f196d21b283b4c90e10e1dcd4bcb46"
-      },
-      "approval_journal_column": "approval_history",
-      "sys_updated_on": "2019-04-03 21:42:55",
-      "document_id": {
-        "link": "https://asurion.service-now.com/api/now/table/sc_req_item/e7f196d21b283b4c90e10e1dcd4bcb46",
-        "value": "e7f196d21b283b4c90e10e1dcd4bcb46"
-      },
-      "process_step": "",
-      "sys_id": "0002d6d21b283b4c90e10e1dcd4bcb8d",
-      "sys_updated_by": "166296",
-      "sys_created_on": "2019-04-03 21:42:55",
-      "iteration": "1",
-      "state": "requested",
-      "approval_source": "",
-      "sys_created_by": "166296",
-      "group": "",
-      "order": "",
-      "approver": {
-        "link": "https://asurion.service-now.com/api/now/table/sys_user/c9d4a97437ae35405ad79b7a93990e62",
-        "value": "c9d4a97437ae35405ad79b7a93990e62"
-      },
-      "comments": "",
-      "due_date": "2019-04-03 21:42:54",
-      "sys_mod_count": "0",
-      "approval_column": "approval",
-      "sys_tags": "",
-      "expected_start": "2019-04-03 21:42:54",
-      "state_binding": "",
-      "wf_activity": {
-        "link": "https://asurion.service-now.com/api/now/table/wf_activity/cb4b625f1b983b48acfdfcccdd4bcb2d",
-        "value": "cb4b625f1b983b48acfdfcccdd4bcb2d"
-      },
-      "source_table": "sc_req_item"
-    },
-    {
+    }
       "u_previously_approved": "false",
       "sysapproval": {
         "link": "https://asurion.service-now.com/api/now/table/task/fbe8c5d8dbd617005c54f5951d9619ea",
