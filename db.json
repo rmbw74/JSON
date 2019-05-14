@@ -1,43 +1,88 @@
 {
-  "result": [
-    {
-      "u_previously_approved": "false",
-      "sysapproval": {
-        "link": "https://asurion.service-now.com/api/now/table/task/81017892dbf457481e16f5161d961961",
-        "value": "81017892dbf457481e16f5161d961961"
-      },
-      "approval_journal_column": "approval_history",
-      "sys_updated_on": "2018-10-08 05:21:38",
-      "document_id": {
-        "link": "https://asurion.service-now.com/api/now/table/sc_req_item/81017892dbf457481e16f5161d961961",
-        "value": "81017892dbf457481e16f5161d961961"
-      },
-      "process_step": "",
-      "sys_id": "00009f01db05e30415e9fb731d961959",
-      "sys_updated_by": "guest",
-      "sys_created_on": "2018-10-08 05:21:38",
-      "iteration": "1",
-      "state": "requested",
-      "approval_source": "",
-      "sys_created_by": "guest",
-      "group": "",
-      "order": "",
-      "approver": {
-        "link": "https://asurion.service-now.com/api/now/table/sys_user/d42558dc37ae75005ad79b7a93990e17",
-        "value": "d42558dc37ae75005ad79b7a93990e17"
-      },
-      "comments": "",
-      "due_date": "2018-10-08 05:21:38",
-      "sys_mod_count": "0",
-      "approval_column": "approval",
-      "sys_tags": "",
-      "expected_start": "2018-10-08 05:21:38",
-      "state_binding": "",
-      "wf_activity": {
-        "link": "https://asurion.service-now.com/api/now/table/wf_activity/3c4fd4e837bc5bc091988ff1b3990e28",
-        "value": "3c4fd4e837bc5bc091988ff1b3990e28"
-      },
-      "source_table": "sc_req_item"
-    }
-  ]
+    "result": [
+        {
+            "sysapproval.u_created_by_name.u_legal_name": "Ruben Viera",
+            "sysapproval.short_description": "Update Set Migration - Commit your update set to the next instance",
+            "due_date": "2019-04-29 18:17:23",
+            "sysapproval.number": "RITM1114702"
+        },
+        {
+            "sysapproval.u_created_by_name.u_legal_name": "Ruben Viera",
+            "sysapproval.short_description": "Update Set Migration - Commit your update set to the next instance",
+            "due_date": "2019-03-13 15:53:04",
+            "sysapproval.number": "RITM1113701"
+        },
+        {
+            "sysapproval.u_created_by_name.u_legal_name": "Ruben Viera",
+            "sysapproval.short_description": "Update Set Migration - Commit your update set to the next instance",
+            "due_date": "2019-03-13 14:23:52",
+            "sysapproval.number": "RITM1113698"
+        },
+        {
+            "sysapproval.u_created_by_name.u_legal_name": "Ruben Viera",
+            "sysapproval.short_description": "Update Set Migration - Commit your update set to the next instance",
+            "due_date": "2019-03-12 15:09:25",
+            "sysapproval.number": "RITM1113666"
+        },
+        {
+            "sysapproval.u_created_by_name.u_legal_name": "Ruben Viera",
+            "sysapproval.short_description": "Update Set Migration - Commit your update set to the next instance",
+            "due_date": "2019-03-12 14:59:06",
+            "sysapproval.number": "RITM1113665"
+        },
+        {
+            "sysapproval.u_created_by_name.u_legal_name": "Ruben Viera",
+            "sysapproval.short_description": "Update Set Migration - Commit your update set to the next instance",
+            "due_date": "2019-03-12 14:28:56",
+            "sysapproval.number": "RITM1113664"
+        },
+        {
+            "sysapproval.u_created_by_name.u_legal_name": "Ruben Viera",
+            "sysapproval.short_description": "Update Set Migration - Commit your update set to the next instance",
+            "due_date": "2019-03-12 14:26:44",
+            "sysapproval.number": "RITM1113663"
+        },
+        {
+            "sysapproval.u_created_by_name.u_legal_name": "Ruben Viera",
+            "sysapproval.short_description": "Update Set Migration - Commit your update set to the next instance",
+            "due_date": "2019-03-11 13:51:39",
+            "sysapproval.number": "RITM1113616"
+        },
+        {
+            "sysapproval.u_created_by_name.u_legal_name": "Ruben Viera",
+            "sysapproval.short_description": "Update Set Migration - Commit your update set to the next instance",
+            "due_date": "2019-03-08 20:45:27",
+            "sysapproval.number": "RITM1113593"
+        },
+        {
+            "sysapproval.u_created_by_name.u_legal_name": "Ruben Viera",
+            "sysapproval.short_description": "Update Set Migration - Commit your update set to the next instance",
+            "due_date": "2019-03-04 21:31:47",
+            "sysapproval.number": "RITM1113457"
+        },
+        {
+            "sysapproval.u_created_by_name.u_legal_name": "Aaron Anderson",
+            "sysapproval.short_description": "Team Development Intake Form",
+            "due_date": "2019-03-04 19:53:49",
+            "sysapproval.number": "RITM1113448"
+        },
+        {
+            "sysapproval.u_created_by_name.u_legal_name": "Ruben Viera",
+            "sysapproval.short_description": "Team Development Intake Form",
+            "due_date": "2019-03-04 15:14:49",
+            "sysapproval.number": "RITM1113437"
+        },
+        {
+            "sysapproval.u_created_by_name.u_legal_name": "",
+            "sysapproval.short_description": "Request for an Office 365 License.",
+            "due_date": "2018-11-15 15:35:19",
+            "sysapproval.number": "RITM1109795"
+        },
+        {
+            "sysapproval.u_created_by_name.u_legal_name": "",
+            "sysapproval.short_description": "Request for sharing, deleting, or republishing a homepage for ServiceNow group(s)",
+            "due_date": "2018-10-30 20:54:02",
+            "sysapproval.number": "RITM1107869"
+        }
+    ]
 }
